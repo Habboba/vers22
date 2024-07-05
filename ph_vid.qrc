@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>box-crash.mp3</file>
+        <file>Chicken png.webp</file>
+        <file>galaxmap.png</file>
+        <file>laser.png</file>
+        <file>ship.png</file>
+        <file>shottt.mp3</file>
+    </qresource>
+</RCC>
